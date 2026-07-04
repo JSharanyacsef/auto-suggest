@@ -1,6 +1,6 @@
 
 h1 {
-  color: red;
+  color: black;
 }
 
 /* property : value */
@@ -62,4 +62,44 @@ img{
 }
 button{
     width: 100%;
+}
+
+#mycode{
+  
+  text-align: center;
+  
+  
+}
+#toright{
+ position: fixed;
+
+  top:20px;
+  right:20px;
+}
+#toleft{
+ 
+  position: fixed;
+  top:20px;
+  left:20px;
+}
+#first{
+  color: blueviolet;
+}
+.lens{
+position: relative;
+left:40px;
+}
+.search-box{
+  padding: 15px 15px 15px 45px;
+  border-radius: 30px;
+  width:40%;
+}
+#suggestion-box{
+  border: 1px solid black;
+   margin-left: 29%;
+  width: 45%;
+}
+#tag-line{
+  color:grey;
+
 }
